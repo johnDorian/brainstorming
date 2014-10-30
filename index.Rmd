@@ -23,9 +23,13 @@ knit        : slidify::knit2slides
 4. Further Ideas
 
 
---- bg:url(/assets/img/Earthscience_slide_template.png)
+---
 
-## Slide 2
+## A coupled DOC-hydrological model
+
+This is a simple alert test **hello**
+
+
 
 
 
